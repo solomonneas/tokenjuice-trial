@@ -1,0 +1,15 @@
+{
+  "phase": "tokenjuice",
+  "run": 7,
+  "input_tokens": 1193,
+  "cache_read_tokens": 50815,
+  "cache_write_tokens": 0,
+  "output_tokens": 538,
+  "total_tokens": 52546,
+  "effective_input_tokens": 52008,
+  "turns": 6,
+  "commands_executed": 5,
+  "tool_errors": 1,
+  "elapsed_seconds": 15,
+  "last_assistant_text": "30 commits shown, recent work on intel entries, blog posts, and banner images spanning April 14-19.\n\n10 commits with file change stats, showing intel entries, banner image updates, blog post edits, and various markdown file modifications.\n\nClean working tree, no uncommitted changes.\n\n14 files changed over 5 commits: 1 new blog post with banner image, and 13 new intel entries.\n\nnpm help output showing available commands, usage syntax, and version 10.9.7."
+}

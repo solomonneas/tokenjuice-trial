@@ -1,0 +1,15 @@
+{
+  "phase": "tokenjuice",
+  "run": 5,
+  "input_tokens": 5000,
+  "cache_read_tokens": 64804,
+  "cache_write_tokens": 0,
+  "output_tokens": 541,
+  "total_tokens": 70345,
+  "effective_input_tokens": 69804,
+  "turns": 6,
+  "commands_executed": 5,
+  "tool_errors": 1,
+  "elapsed_seconds": 28,
+  "last_assistant_text": "Shows npm commands and config info, version 10.9.7."
+}

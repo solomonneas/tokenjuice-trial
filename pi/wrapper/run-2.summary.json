@@ -1,0 +1,15 @@
+{
+  "phase": "wrapper",
+  "run": 2,
+  "input_tokens": 2065,
+  "cache_read_tokens": 54365,
+  "cache_write_tokens": 0,
+  "output_tokens": 728,
+  "total_tokens": 57158,
+  "effective_input_tokens": 56430,
+  "turns": 6,
+  "commands_executed": 5,
+  "tool_errors": 1,
+  "elapsed_seconds": 14,
+  "last_assistant_text": "Shows npm usage summary with all available commands, configuration file location, and npm version 10.9.7."
+}

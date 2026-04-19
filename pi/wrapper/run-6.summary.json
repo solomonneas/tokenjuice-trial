@@ -1,0 +1,15 @@
+{
+  "phase": "wrapper",
+  "run": 6,
+  "input_tokens": 2065,
+  "cache_read_tokens": 53972,
+  "cache_write_tokens": 0,
+  "output_tokens": 498,
+  "total_tokens": 56535,
+  "effective_input_tokens": 56037,
+  "turns": 6,
+  "commands_executed": 5,
+  "tool_errors": 1,
+  "elapsed_seconds": 16,
+  "last_assistant_text": "Shows npm help output listing all available commands and npm version 10.9.7."
+}

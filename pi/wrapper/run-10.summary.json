@@ -1,0 +1,15 @@
+{
+  "phase": "wrapper",
+  "run": 10,
+  "input_tokens": 2065,
+  "cache_read_tokens": 54058,
+  "cache_write_tokens": 0,
+  "output_tokens": 517,
+  "total_tokens": 56640,
+  "effective_input_tokens": 56123,
+  "turns": 6,
+  "commands_executed": 5,
+  "tool_errors": 1,
+  "elapsed_seconds": 15,
+  "last_assistant_text": "Shows npm usage, command list, and configuration information (exit code 1 despite help display)."
+}

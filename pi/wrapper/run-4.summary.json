@@ -1,0 +1,15 @@
+{
+  "phase": "wrapper",
+  "run": 4,
+  "input_tokens": 2093,
+  "cache_read_tokens": 54284,
+  "cache_write_tokens": 0,
+  "output_tokens": 609,
+  "total_tokens": 56986,
+  "effective_input_tokens": 56377,
+  "turns": 6,
+  "commands_executed": 5,
+  "tool_errors": 1,
+  "elapsed_seconds": 13,
+  "last_assistant_text": "Shows npm usage and all available commands with version 10.9.7."
+}

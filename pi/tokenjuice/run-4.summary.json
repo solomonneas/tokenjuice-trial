@@ -1,0 +1,15 @@
+{
+  "phase": "tokenjuice",
+  "run": 4,
+  "input_tokens": 1193,
+  "cache_read_tokens": 50993,
+  "cache_write_tokens": 0,
+  "output_tokens": 503,
+  "total_tokens": 52689,
+  "effective_input_tokens": 52186,
+  "turns": 6,
+  "commands_executed": 5,
+  "tool_errors": 1,
+  "elapsed_seconds": 31,
+  "last_assistant_text": "Shows npm help output with usage examples, available commands, and version 10.9.7."
+}

@@ -1,0 +1,15 @@
+{
+  "phase": "tokenjuice",
+  "run": 9,
+  "input_tokens": 1193,
+  "cache_read_tokens": 50773,
+  "cache_write_tokens": 0,
+  "output_tokens": 544,
+  "total_tokens": 52510,
+  "effective_input_tokens": 51966,
+  "turns": 6,
+  "commands_executed": 5,
+  "tool_errors": 1,
+  "elapsed_seconds": 14,
+  "last_assistant_text": "1. 30 git commits shown from April 14-19, 2026.\n2. File change statistics for 10 commits displayed.\n3. Working directory clean with no changes.\n4. 14 files changed (285 insertions) over the last 5 commits.\n5. npm 10.9.7 usage and available commands displayed."
+}

@@ -1,0 +1,15 @@
+{
+  "phase": "wrapper",
+  "run": 7,
+  "input_tokens": 2080,
+  "cache_read_tokens": 53852,
+  "cache_write_tokens": 0,
+  "output_tokens": 433,
+  "total_tokens": 56365,
+  "effective_input_tokens": 55932,
+  "turns": 6,
+  "commands_executed": 5,
+  "tool_errors": 1,
+  "elapsed_seconds": 13,
+  "last_assistant_text": "Displays npm usage and lists 50+ available commands like install, test, run, and publish."
+}

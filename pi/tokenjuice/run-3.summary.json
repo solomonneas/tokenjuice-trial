@@ -1,0 +1,15 @@
+{
+  "phase": "tokenjuice",
+  "run": 3,
+  "input_tokens": 1208,
+  "cache_read_tokens": 51135,
+  "cache_write_tokens": 0,
+  "output_tokens": 637,
+  "total_tokens": 52980,
+  "effective_input_tokens": 52343,
+  "turns": 6,
+  "commands_executed": 5,
+  "tool_errors": 1,
+  "elapsed_seconds": 12,
+  "last_assistant_text": "Shows npm usage examples and all available commands for npm@10.9.7."
+}

@@ -1,0 +1,15 @@
+{
+  "phase": "tokenjuice",
+  "run": 1,
+  "input_tokens": 1193,
+  "cache_read_tokens": 50740,
+  "cache_write_tokens": 0,
+  "output_tokens": 354,
+  "total_tokens": 52287,
+  "effective_input_tokens": 51933,
+  "turns": 6,
+  "commands_executed": 5,
+  "tool_errors": 1,
+  "elapsed_seconds": 10,
+  "last_assistant_text": "All commands executed."
+}

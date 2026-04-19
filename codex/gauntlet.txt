@@ -1,0 +1,9 @@
+Execute each of the following commands in the ~/repos/sample-repo-b directory, in order. Use the shell tool. After each command, give a single terse sentence summarizing what the output showed. Do not explain further, do not elaborate, do not add commentary between commands. Just run and 1-line summarize.
+
+1. git log -30
+2. git log --stat -10
+3. git status
+4. git diff HEAD~5 --stat
+5. npm --help
+
+When all five are done, stop.

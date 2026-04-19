@@ -1,0 +1,11 @@
+classification: generic/fallback
+entries: 1
+generic artifacts: 1
+weak artifacts: 0
+avg ratio: 100%
+health: poor
+alerts:
+- 1 entry fell back to generic/fallback
+- average reduction ratio is weak at 100%
+top reducers:
+- generic/fallback count=1

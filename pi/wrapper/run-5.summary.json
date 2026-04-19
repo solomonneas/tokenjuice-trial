@@ -1,0 +1,15 @@
+{
+  "phase": "wrapper",
+  "run": 5,
+  "input_tokens": 2065,
+  "cache_read_tokens": 53939,
+  "cache_write_tokens": 0,
+  "output_tokens": 427,
+  "total_tokens": 56431,
+  "effective_input_tokens": 56004,
+  "turns": 6,
+  "commands_executed": 5,
+  "tool_errors": 1,
+  "elapsed_seconds": 11,
+  "last_assistant_text": "Done. All 5 commands executed."
+}

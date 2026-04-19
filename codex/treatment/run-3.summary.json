@@ -1,0 +1,8 @@
+{
+  "input_tokens": 176648,
+  "cached_input_tokens": 150656,
+  "output_tokens": 489,
+  "turns": 1,
+  "commands_executed": 5,
+  "elapsed_seconds": 29
+}

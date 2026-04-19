@@ -1,0 +1,15 @@
+{
+  "phase": "wrapper",
+  "run": 3,
+  "input_tokens": 2065,
+  "cache_read_tokens": 53998,
+  "cache_write_tokens": 0,
+  "output_tokens": 520,
+  "total_tokens": 56583,
+  "effective_input_tokens": 56063,
+  "turns": 6,
+  "commands_executed": 5,
+  "tool_errors": 1,
+  "elapsed_seconds": 13,
+  "last_assistant_text": "Shows npm usage help with command list and version 10.9.7."
+}
